@@ -37,7 +37,7 @@ landingContent:
             url: ./concepts/anchor-relationships-way-finding.md
           - text: Experience guidelines
             url: ./concepts/guidelines-effective-anchor-experiences.md
-          - text: Logging and diagnostics
+          - text: Logging and diagnostics 
             url: ./concepts/logging-diagnostics.md
           - text: Coarse relocalization
             url: ./concepts/coarse-reloc.md
